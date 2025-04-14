@@ -2,7 +2,11 @@
 
 ### Manifest
 
+#### [ru]
+
 мой проект в котором я изучаю вайб кодинг, то есть буду писать код с помощью llm моделей, это глава будет пополнятся в процессе разработки
+
+#### [en]
 
 My project in which I study Vibe Coding, that is, I will write a code using LLM models, this chapter will be replenished in the development process
 
