@@ -1,20 +1,27 @@
-# test-vue
+# vibe-crypto-vue
+
+----------------- Manifest -----------------
+мой проект в котором я изучаю вайб кодинг, то есть буду писать код с помощью llm моделей, это глава будет пополнятся в процессе разработки
+
+My project in which I study Vibe Coding, that is, I will write a code using LLM models, this chapter will be replenished in the development process
+
+## about project
 
 This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+### Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Type Support for `.vue` Imports in TS
+### Type Support for `.vue` Imports in TS
 
 TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
 
-## Customize configuration
+### Customize configuration
 
 See [Vite Configuration Reference](https://vite.dev/config/).
 
-## Project Setup
+### Project Setup
 
 ```sh
 npm install
